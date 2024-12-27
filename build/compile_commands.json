@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/Users/jordane/Documents/INF2705/TPs/TP1_INF2705/build",
+  "command": "/usr/bin/clang++  -I/Users/jordane/Documents/INF2705/TPs/TP1_INF2705/src/. -I/opt/homebrew/include -I/opt/homebrew/Cellar/sdl2/2.28.5/include -F/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/System/Library/Frameworks -isystem /opt/homebrew/Cellar/sdl2/2.28.5/include/SDL2  -std=c++20 -fsigned-char -Wno-unknown-pragmas -Wno-enum-compare -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=13.0 -o CMakeFiles/tp1.dir/shader_program.cpp.o -c /Users/jordane/Documents/INF2705/TPs/TP1_INF2705/src/shader_program.cpp",
+  "file": "/Users/jordane/Documents/INF2705/TPs/TP1_INF2705/src/shader_program.cpp",
+  "output": "CMakeFiles/tp1.dir/shader_program.cpp.o"
+},
+{
+  "directory": "/Users/jordane/Documents/INF2705/TPs/TP1_INF2705/build",
+  "command": "/usr/bin/clang++  -I/Users/jordane/Documents/INF2705/TPs/TP1_INF2705/src/. -I/opt/homebrew/include -I/opt/homebrew/Cellar/sdl2/2.28.5/include -F/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/System/Library/Frameworks -isystem /opt/homebrew/Cellar/sdl2/2.28.5/include/SDL2  -std=c++20 -fsigned-char -Wno-unknown-pragmas -Wno-enum-compare -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=13.0 -o CMakeFiles/tp1.dir/shapes.cpp.o -c /Users/jordane/Documents/INF2705/TPs/TP1_INF2705/src/shapes.cpp",
+  "file": "/Users/jordane/Documents/INF2705/TPs/TP1_INF2705/src/shapes.cpp",
+  "output": "CMakeFiles/tp1.dir/shapes.cpp.o"
+},
+{
+  "directory": "/Users/jordane/Documents/INF2705/TPs/TP1_INF2705/build",
+  "command": "/usr/bin/clang++  -I/Users/jordane/Documents/INF2705/TPs/TP1_INF2705/src/. -I/opt/homebrew/include -I/opt/homebrew/Cellar/sdl2/2.28.5/include -F/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/System/Library/Frameworks -isystem /opt/homebrew/Cellar/sdl2/2.28.5/include/SDL2  -std=c++20 -fsigned-char -Wno-unknown-pragmas -Wno-enum-compare -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=13.0 -o CMakeFiles/tp1.dir/window.cpp.o -c /Users/jordane/Documents/INF2705/TPs/TP1_INF2705/src/window.cpp",
+  "file": "/Users/jordane/Documents/INF2705/TPs/TP1_INF2705/src/window.cpp",
+  "output": "CMakeFiles/tp1.dir/window.cpp.o"
+},
+{
+  "directory": "/Users/jordane/Documents/INF2705/TPs/TP1_INF2705/build",
+  "command": "/usr/bin/clang++  -I/Users/jordane/Documents/INF2705/TPs/TP1_INF2705/src/. -I/opt/homebrew/include -I/opt/homebrew/Cellar/sdl2/2.28.5/include -F/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/System/Library/Frameworks -isystem /opt/homebrew/Cellar/sdl2/2.28.5/include/SDL2  -std=c++20 -fsigned-char -Wno-unknown-pragmas -Wno-enum-compare -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=13.0 -o CMakeFiles/tp1.dir/main.cpp.o -c /Users/jordane/Documents/INF2705/TPs/TP1_INF2705/src/main.cpp",
+  "file": "/Users/jordane/Documents/INF2705/TPs/TP1_INF2705/src/main.cpp",
+  "output": "CMakeFiles/tp1.dir/main.cpp.o"
+}
+]
